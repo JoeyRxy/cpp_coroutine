@@ -1,0 +1,4 @@
+# ninja log v5
+1	8136	1665300039129281200	CMakeFiles/coro.dir/io_utils.cpp.o	c0881c4cee88ad8d
+2	12704	1665300302249281200	CMakeFiles/coro.dir/main.cpp.o	a30b86603baedb8
+12704	13361	1665300302919281200	bin/coro	b04a01a7c1697b8e

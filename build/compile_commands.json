@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rxy/code/cpp_coroutine/build",
+  "command": "/usr/bin/g++ -I/home/rxy/.conan/data/cpp-httplib/0.10.4/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -I/home/rxy/.conan/data/cpp-httplib/0.10.4/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include/httplib -I/home/rxy/.conan/data/openssl/3.0.2/_/_/package/304480252b01879c8641f79a653b593b8f26cf9f/include -I/home/rxy/.conan/data/nlohmann_json/3.10.5/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -I/home/rxy/.conan/data/zlib/1.2.12/_/_/package/dfbe50feef7f3c6223a476cd5aeadb687084a646/include -g  -std=gnu++20 -o CMakeFiles/coro.dir/main.cpp.o -c /home/rxy/code/cpp_coroutine/main.cpp",
+  "file": "/home/rxy/code/cpp_coroutine/main.cpp"
+},
+{
+  "directory": "/home/rxy/code/cpp_coroutine/build",
+  "command": "/usr/bin/g++ -I/home/rxy/.conan/data/cpp-httplib/0.10.4/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -I/home/rxy/.conan/data/cpp-httplib/0.10.4/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include/httplib -I/home/rxy/.conan/data/openssl/3.0.2/_/_/package/304480252b01879c8641f79a653b593b8f26cf9f/include -I/home/rxy/.conan/data/nlohmann_json/3.10.5/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -I/home/rxy/.conan/data/zlib/1.2.12/_/_/package/dfbe50feef7f3c6223a476cd5aeadb687084a646/include -g  -std=gnu++20 -o CMakeFiles/coro.dir/io_utils.cpp.o -c /home/rxy/code/cpp_coroutine/io_utils.cpp",
+  "file": "/home/rxy/code/cpp_coroutine/io_utils.cpp"
+}
+]
